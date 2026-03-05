@@ -1,0 +1,26 @@
+Official Python tutorial on defining functions:
+https://docs.python.org/3.8/tutorial/controlflow.html#defining-functions
+
+Official Python tutorial for pass statement:
+https://docs.python.org/3.8/tutorial/controlflow.html#pass-statements
+
+Official Python glossary definition for argument:
+https://docs.python.org/3.8/glossary.html#term-argument
+
+Official Python tutorial for keyword arguments:
+https://docs.python.org/3.8/tutorial/controlflow.html#keyword-arguments
+
+Official Python tutorial for default argument values:
+https://docs.python.org/3.8/tutorial/controlflow.html#default-argument-values
+
+Official Python library reference for the None type:
+https://docs.python.org/3.8/library/constants.html#None
+
+PEP proposal 484 for function annotations:
+https://peps.python.org/pep-0484/
+
+Official Python tutorial for function annotations:
+https://docs.python.org/3.8/tutorial/controlflow.html#function-annotations
+
+Official Python glossary definition for function annotation:
+https://docs.python.org/3.8/glossary.html#term-function-annotation

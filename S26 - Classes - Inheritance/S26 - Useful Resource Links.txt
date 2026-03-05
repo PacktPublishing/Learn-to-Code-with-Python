@@ -1,0 +1,11 @@
+Official Python glossary definition for duck typing:
+https://docs.python.org/3.9/glossary.html#term-duck-typing
+
+Official Python tutorial for private variables:
+https://docs.python.org/3.9/tutorial/classes.html#private-variables
+
+Wikipedia entry for depth-first search:
+https://en.wikipedia.org/wiki/Depth-first_search
+
+Wikipedia entry for breadth-first search:
+https://en.wikipedia.org/wiki/Breadth-first_search

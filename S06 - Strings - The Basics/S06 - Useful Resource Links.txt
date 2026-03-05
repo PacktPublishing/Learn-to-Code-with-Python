@@ -1,0 +1,11 @@
+Official Python library reference for the len function:
+https://docs.python.org/3.8/library/functions.html#len
+
+Official Python tutorial on strings:
+https://docs.python.org/3.8/tutorial/introduction.html#strings
+
+LinuxConfig.org List of Python Escape sequence characters:
+https://linuxconfig.org/list-of-python-escape-sequence-characters-with-examples
+
+Official Python reference for Membership Test Operations:
+https://docs.python.org/3.8/reference/expressions.html#membership-test-operations

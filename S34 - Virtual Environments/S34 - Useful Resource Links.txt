@@ -1,0 +1,8 @@
+Official website page for the Python Package Index:
+https://pypi.org/
+
+GitHub page for the Python "arrow" package:
+https://github.com/arrow-py/arrow
+
+Official Python tutorial for creating virtual environments with the venv module:
+https://docs.python.org/3.10/tutorial/venv.html

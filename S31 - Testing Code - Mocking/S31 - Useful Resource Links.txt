@@ -1,0 +1,50 @@
+Official Python library reference for the unittest.mock library:
+https://docs.python.org/dev/library/unittest.mock.html
+
+Official Python library article for the mock class:
+https://docs.python.org/dev/library/unittest.mock.html#the-mock-class
+
+Official Python library reference for the configure_mock method:
+https://docs.python.org/dev/library/unittest.mock.html#unittest.mock.Mock.configure_mock
+
+Official Python library tutorial for calling mock objects:
+https://docs.python.org/dev/library/unittest.mock.html#calling
+
+Official Python library reference for the return_value attribute:
+https://docs.python.org/dev/library/unittest.mock.html#unittest.mock.Mock.return_value
+
+Official Python article on "Setting return values and attributes":
+https://docs.python.org/dev/library/unittest.mock-examples.html#setting-return-values-and-attributes
+
+Official Python tutorial for calling mock objects:
+https://docs.python.org/dev/library/unittest.mock.html#calling
+
+Official Python library reference for the side_effect method:
+https://docs.python.org/dev/library/unittest.mock.html#unittest.mock.Mock.side_effect
+
+Official Python library article on side_effect functions and iterables:
+https://docs.python.org/dev/library/unittest.mock-examples.html#side-effect-functions-and-iterables
+
+Official Python library reference for MagicMock class:
+https://docs.python.org/3.9/library/unittest.mock.html#unittest.mock.MagicMock
+
+Official Python library article on using Mock:
+https://docs.python.org/dev/library/unittest.mock-examples.html#
+
+Stack Overflow question on differences between Mock and MagicMock classes:
+https://stackoverflow.com/questions/17181687/mock-vs-magicmock
+
+Official Python library article on creating a Mock from an existing object:
+https://docs.python.org/dev/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
+
+Stack Overflow question on the differences between the spec and spec_set parameters for the Mock and MagicMock constructors:
+https://stackoverflow.com/questions/25323361/what-is-spec-and-spec-set
+
+Official Python library article on the patchers:
+https://docs.python.org/dev/library/unittest.mock.html#the-patchers
+
+Official Python library article on where to patch:
+https://docs.python.org/dev/library/unittest.mock.html#where-to-patch
+
+Stack Overflow question on patching a class / function in the current module:
+https://stackoverflow.com/questions/11155210/how-to-patch-python-class-using-mock-library

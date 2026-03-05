@@ -1,0 +1,27 @@
+Official Python documentation for the string type:
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+
+Official Python tutorial for strings:
+https://docs.python.org/3.8/tutorial/introduction.html#strings
+
+Official Python Glossary definition for immutable:
+https://docs.python.org/3.8/glossary.html#term-immutable
+
+StackOverflow question on the differences between single and double quotes:
+https://stackoverflow.com/questions/56011/single-quotes-vs-double-quotes-in-python
+
+Official Python Glossary definition for function:
+https://docs.python.org/3.8/glossary.html#term-function
+
+Official Python Glossary definition for argument:
+https://docs.python.org/3.8/glossary.html#term-argument
+
+Official Python reference for the print function:
+https://docs.python.org/3.8/library/functions.html#print
+
+Official Python Glossary definition for expression:
+https://docs.python.org/3.8/glossary.html#term-expression
+
+Official Python reference on comments:
+https://docs.python.org/3/reference/lexical_analysis.html#comments
+

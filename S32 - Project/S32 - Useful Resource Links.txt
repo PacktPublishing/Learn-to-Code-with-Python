@@ -1,0 +1,20 @@
+List of all Poker hands with descriptions:
+https://www.casino.us/poker/strategy/poker-hands/
+
+Article on the "20 Benefits of the Test-Driven Development":
+https://dzone.com/articles/20-benefits-of-test-driven-development
+
+Wikipedia Article on Test-Driven Development:
+https://en.wikipedia.org/wiki/Test-driven_development
+
+Official Python library reference for the __str__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__str__
+
+Official Python library reference for the __repr__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__repr__
+
+Official Python documentation for the assertRaises test method:
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
+Wikipedia article on Dependency injection:
+https://en.wikipedia.org/wiki/Dependency_injection

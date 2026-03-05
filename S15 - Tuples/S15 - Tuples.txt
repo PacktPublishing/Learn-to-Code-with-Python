@@ -1,0 +1,8 @@
+Official Python tutorial on Tuples and Sequences:
+https://docs.python.org/3.9/tutorial/datastructures.html#tuples-and-sequences
+
+Official Python tutorial on arbitrary argument lists:
+https://docs.python.org/3.9/tutorial/controlflow.html#arbitrary-argument-lists
+
+Official Python tutorial for unpacking argument lists:
+https://docs.python.org/3.9/tutorial/controlflow.html#unpacking-argument-lists

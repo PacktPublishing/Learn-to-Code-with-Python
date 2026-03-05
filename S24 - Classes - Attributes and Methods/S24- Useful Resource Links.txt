@@ -1,0 +1,38 @@
+Official Python glossary definition for method:
+https://docs.python.org/3.9/glossary.html#term-method
+
+Official Python library reference for the property class:
+https://docs.python.org/3.9/library/functions.html#property
+
+Stack Overflow question on properties vs. getters and setters:
+https://stackoverflow.com/questions/6618002/using-property-versus-getters-and-setters
+
+Official Python glossary definition to decorator:
+https://docs.python.org/3.9/glossary.html#term-decorator
+
+Official Python library reference for the getattr function:
+https://docs.python.org/3.9/library/functions.html#getattr
+
+Official Python library reference for the setattr function:
+https://docs.python.org/3.9/library/functions.html#setattr
+
+Stack Overflow question on the benefits of the getattr:
+https://stackoverflow.com/questions/4075190/what-is-and-how-can-i-to-use-getattr-in-python
+
+Stack Overflow question on using setattr in Python:
+https://stackoverflow.com/questions/9561174/using-setattr-in-python
+
+Sample from Scrapy repository that shows a use of getattr:
+https://github.com/scrapy/scrapy/blob/4196d4869b8c5c14c9db19290d875fdd9958265d/scrapy/extensions/feedexport.py#L302
+
+Official Python library reference for the hasattr function:
+https://docs.python.org/3.9/library/functions.html#hasattr
+
+Official Python library reference for the delattr function:
+https://docs.python.org/3.9/library/functions.html#delattr
+
+Official Python library reference for the staticmethod decorator:
+https://docs.python.org/3.9/library/functions.html#staticmethod
+
+Stack Overflow question on the difference between staticmethod and classmethod decorators:
+https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python

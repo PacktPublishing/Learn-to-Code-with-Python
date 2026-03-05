@@ -1,0 +1,33 @@
+Official Python Tutorial on numbers:
+https://docs.python.org/3.8/tutorial/introduction.html#numbers
+
+TutorialsPoint article on the mathematical operators in Python:
+https://www.tutorialspoint.com/python/python_operators.htm
+
+Stack Overflow question on what an expression is:
+https://stackoverflow.com/questions/4782590/what-is-an-expression-in-python
+
+Official Python Glossary definition on floor division:
+https://docs.python.org/3.8/glossary.html#term-floor-division
+
+TutorialsPoint article on basic operators in Python:
+https://www.tutorialspoint.com/python/python_operators.htm
+
+PythonCentral article on Python's comparison operators:
+https://www.pythoncentral.io/quick-tip-using-pythons-comparison-operators/
+
+Wikipedia page for mathematician George Boole:
+https://en.wikipedia.org/wiki/George_Boole
+
+Official Python library reference for the type function / class:
+https://docs.python.org/3.8/library/functions.html#type
+
+Official Python library reference for the int function:
+https://docs.python.org/3.8/library/functions.html#int
+
+Official Python library reference for the float function:
+https://docs.python.org/3.8/library/functions.html#float
+
+Official Python library reference for the str function:
+https://docs.python.org/3.8/library/functions.html#func-str
+

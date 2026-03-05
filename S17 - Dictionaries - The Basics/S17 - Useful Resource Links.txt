@@ -1,0 +1,35 @@
+Official Python tutorial for dictionaries:
+https://docs.python.org/3.9/tutorial/datastructures.html#dictionaries
+
+Official Python glossary definition for dictionaries:
+https://docs.python.org/3.9/glossary.html#term-dictionary
+
+Official Python documentation for mapping types. This offers a broader overview of the category of objects a dictionary falls under:
+https://docs.python.org/3.9/library/stdtypes.html#mapping-types-dict
+
+Official Python library reference for the get method on a dictionary:
+https://docs.python.org/3.9/library/stdtypes.html#dict.get
+
+Stack Overflow question on how to add new key-value pairs to a dictionary:
+https://stackoverflow.com/questions/1024847/how-can-i-add-new-keys-to-a-dictionary?rq=1
+
+Stack Overflow question on how to update the value of a key in a dictionary:
+https://stackoverflow.com/questions/41063744/how-to-update-the-value-of-a-key-in-a-dictionary-in-python
+
+Official Python library reference for the setdefault method on a dictionary:
+https://docs.python.org/3.9/library/stdtypes.html#dict.setdefault
+
+TutorialsPoint article on the setdefault method on a dictionary:
+https://www.tutorialspoint.com/python/dictionary_setdefault.htm
+
+Sample code from the Django codebase utilizing setdefault:
+https://github.com/django/django/blob/222caab68a2a7345043d0c50161203cb2cfe70eb/django/db/utils.py#L160
+
+Official Python documentation on the pop method on a dictionary:
+https://docs.python.org/3.9/library/stdtypes.html#dict.pop
+
+Official Python documentation on the clear method on a dictionary:
+https://docs.python.org/3.9/library/stdtypes.html#dict.clear
+
+Official Python documentation on the update method on a dictionary:
+https://docs.python.org/3.9/library/stdtypes.html#dict.update

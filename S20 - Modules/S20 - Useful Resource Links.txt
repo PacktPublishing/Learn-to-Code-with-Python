@@ -1,0 +1,49 @@
+Official Python tutorial on the basics of modules:
+https://docs.python.org/3.9/tutorial/modules.html#modules
+
+Official Python tutorial on scopes and namespaces:
+https://docs.python.org/3.9/tutorial/classes.html#python-scopes-and-namespaces
+
+Official Python glossary definition for module:
+https://docs.python.org/3.9/glossary.html#term-module
+
+Official Python tutorial on standard modules:
+https://docs.python.org/3.9/tutorial/modules.html#standard-modules
+
+Official Python documentation for the string module:
+https://docs.python.org/3.9/library/string.html
+
+Official Python documentation for the math module:
+https://docs.python.org/3.9/library/math.html
+
+Official Python documentation for the builtins module:
+https://docs.python.org/3.9/library/builtins.html
+
+Source code for the this module from the Official Python repo on GitHub:
+https://github.com/python/cpython/blame/master/Lib/this.py
+
+WikiBooks entry on the standard library in Python:
+https://en.wikibooks.org/wiki/Python_Programming/Standard_Library
+
+Official Python tutorial on executing modules as scripts:
+https://docs.python.org/3.9/tutorial/modules.html#executing-modules-as-scripts
+
+Stack Overflow question on defining aliases for imported modules in Python:
+https://stackoverflow.com/questions/706595/can-you-define-aliases-for-imported-modules-in-python
+
+DigitalOcean tutorial on how to import modules in Python 3:
+https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3
+
+Official Python tutorial on importing from modules:
+https://docs.python.org/3.9/tutorial/modules.html#more-on-modules
+
+Stack Overflow discussion on speed advantages of import syntax:
+https://stackoverflow.com/questions/39743441/does-importing-a-python-module-affect-performance
+
+Official Python tutorial for importing from a package:
+https://docs.python.org/3.9/tutorial/modules.html#importing-from-a-package
+
+Official Python tutorial for packages:
+https://docs.python.org/3.9/tutorial/modules.html#packages
+
+

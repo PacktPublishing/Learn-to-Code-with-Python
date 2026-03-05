@@ -1,0 +1,75 @@
+Official Python library reference for the find method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.find
+
+Official Python library reference for the index method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.index
+
+Stack Overflow question on the difference between the find and index methods:
+https://stackoverflow.com/questions/22190064/difference-between-find-and-index
+
+Official Python library reference for the startswith method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.startswith
+
+Official Python library reference for the endswith method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.endswith
+
+Official Python library reference for the count method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.count
+
+Official Python library reference for the capitalize method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.capitalize
+
+Official Python library reference for the title method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.title
+
+Official Python library reference for the lower method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.lower
+
+Official Python library reference for the upper method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.upper
+
+Official Python library reference for the swapcase method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.swapcase
+
+Official Python library reference for the islower method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.islower
+
+Official Python library reference for the isupper method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.isupper
+
+Official Python library reference for the istitle method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.istitle
+
+Official Python library reference for the isalpha method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.isalpha
+
+Official Python library reference for the isalnum method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.isalnum
+
+Official Python library reference for the isspace method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.isspace
+
+Official Python library reference for the lstrip method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.lstrip
+
+Official Python library reference for the rstrip method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.rstrip
+
+Official Python library reference for the strip method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.strip
+
+Official Python library reference for the replace method on a string:
+https://docs.python.org/3.8/library/stdtypes.html#str.replace
+
+Official Python tutorial for the string format method:
+https://docs.python.org/3.8/tutorial/inputoutput.html#the-string-format-method
+
+Official Python library reference for the string format method:
+https://docs.python.org/3.8/library/stdtypes.html#str.format
+
+Official Python tutorial on the formatted string literals:
+https://docs.python.org/3.8/tutorial/inputoutput.html#formatted-string-literals
+
+Original PEP proposal for formatted string literals:
+https://docs.python.org/3.6/whatsnew/3.6.html#pep-498-formatted-string-literals
+

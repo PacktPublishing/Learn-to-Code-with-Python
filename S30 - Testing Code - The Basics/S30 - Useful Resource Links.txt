@@ -1,0 +1,80 @@
+Official Python tutorial on quality control:
+https://docs.python.org/3.9/tutorial/stdlib.html#quality-control
+
+Python wiki article on using assertions effectively:
+https://wiki.python.org/moin/UsingAssertionsEffectively
+
+Official Python library entry for the doctest module:
+https://docs.python.org/3.9/library/doctest.html
+
+Official Python library reference for the unittest module:
+https://docs.python.org/3.9/library/unittest.html#module-unittest
+
+Official Python library reference for the main function on the unittest module:
+https://docs.python.org/3/library/unittest.html#unittest.main
+
+PythonLibrary.org article entitled " Python 3 testing: An Intro to unittest":
+https://www.blog.pythonlibrary.org/2016/07/07/python-3-testing-an-intro-to-unittest/
+
+Official Python library reference for the unittest.TestCase class:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase
+
+Visual Studio code documentation on unit testing Python in Visual Studio Code:
+https://code.visualstudio.com/docs/python/testing
+
+Official Python library reference for the TestCase#assertEqual instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertEqual
+
+Official Python library reference on skipping tests:
+https://docs.python.org/3.9/library/unittest.html#skipping-tests-and-expected-failures
+
+Implementation of the skip decorator in the Python source code:
+https://github.com/python/cpython/blob/main/Lib/unittest/case.py#L111
+
+Official Python library reference for the TestCase#assertEqual instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertEqual
+
+Official Python library reference for the TestCase#assertNotEqual instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertNotEqual
+
+Official Python library reference for the TestCase#assertIs instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIs
+
+Official Python library reference for the TestCase#assertIsNot instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIsNot
+
+Official Python library reference for the TestCase#assertTrue instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertTrue
+
+Official Python library reference for the TestCase#assertFalse instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertFalse
+
+Article by James Cooke on the differences between assertTrue and assertIs:
+https://jamescooke.info/python-unittest-asserttrue-is-truthy-assertfalse-is-falsy.html
+
+Official Python library reference for the TestCase#assertIsNone instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIsNone
+
+Official Python library reference for the TestCase#assertIsNotNone instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIsNotNone
+
+Official Python library reference for the TestCase#assertIn instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIn
+
+Official Python library reference for the TestCase#assertNotIn instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertNotIn
+
+Official Python library reference for the TestCase#assertIsInstance instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertIsInstance
+
+Official Python library reference for the TestCase#assertNotIsInstance instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertNotIsInstance
+
+Official Python library reference for the TestCase#assertRaises instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.assertRaises
+
+Official Python library reference for the TestCase#setUp instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.setUp
+
+Official Python library reference for the TestCase#tearDown instance method:
+https://docs.python.org/3.9/library/unittest.html#unittest.TestCase.tearDown

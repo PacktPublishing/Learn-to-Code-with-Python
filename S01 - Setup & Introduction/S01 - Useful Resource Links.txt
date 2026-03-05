@@ -1,0 +1,61 @@
+Official Website for the Python Programming Language:
+https://www.python.org/
+
+Wikipedia entry for the Python Programming Language:
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+Wikipedia entry for the Guido van Rossom, creator of Python:
+https://en.wikipedia.org/wiki/Guido_van_Rossum
+
+GitHub Repository (i.e. codebase) for CPython, the Python Programming Language:
+https://github.com/python/cpython
+
+Wikipedia entry for Sketch Comedy group Monty Python, after whom the Language was named:
+https://en.wikipedia.org/wiki/Monty_Python
+
+Economist Artcile entitled "Python is becoming the world's most popular programming language", published 7/26/2018:
+https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language
+
+Release page for Python 3.10, the latest version as of 2021:
+https://www.python.org/downloads/release/python-3100/
+
+RapidTables Documentation for the pwd command:
+https://www.rapidtables.com/code/linux/pwd.html
+
+RapidTables Documentation for the Is command:
+https://www.rapidtables.com/code/linux/ls.html
+
+RapidTables Documentation for the cd command:
+https://www.rapidtables.com/code/linux/cd.html
+
+The download page for Python. Choose the highest available version for MacOS:
+https://www.python.org/downloads/
+
+Wikipedia page for pip package manager:
+https://en.wikipedia.org/wiki/Pip_(package_manager)
+
+Official Python page for invoking the Interpreter:
+https://docs.python.org/3.8/tutorial/interpreter.html#invoking-the-interpreter
+
+Official website for Visual Studio Code:
+https://code.visualstudio.com/
+
+Microsoft Documentation for the cd command:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd
+
+Microsoft Documentation for the cd command:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cls
+
+Microsoft Documentation for the dir command:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir
+
+Microsoft Documentation for the mkdir command:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mkdir
+
+Microsoft Documentation for the rmdir command:
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/rmdir
+
+The download page of Python 3. Choose the highest available version for Windows:
+https://www.python.org/downloads/
+
+

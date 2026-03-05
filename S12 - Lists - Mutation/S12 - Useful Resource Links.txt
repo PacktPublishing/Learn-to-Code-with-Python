@@ -1,0 +1,14 @@
+Wikipedia entry with a list of all Crayola Crayon colors:
+https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+
+Stack Overflow question on slice notation in Python:
+https://stackoverflow.com/questions/509211/how-slicing-in-python-works/20136130#20136130
+
+Stack Overflow question on the differences between append and extend methods:
+https://stackoverflow.com/questions/252703/what-is-the-difference-between-pythons-list-methods-append-and-extend
+
+Official Python tutorial on list methods including all of the methods of list objects:
+https://docs.python.org/3.9/tutorial/datastructures.html#more-on-lists
+
+Official Python tutorial on the del statement:
+https://docs.python.org/3.9/tutorial/datastructures.html#the-del-statement

@@ -1,0 +1,5 @@
+Official website for the Scrapy framework:
+https://www.scrapy.org/
+
+GitHub repository for Scrapy:
+https://github.com/scrapy/scrapy

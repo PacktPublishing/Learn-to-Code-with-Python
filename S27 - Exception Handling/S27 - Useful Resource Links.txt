@@ -1,0 +1,20 @@
+Official Python tutorial for syntax errors:
+https://docs.python.org/3.9/tutorial/errors.html#syntax-errors
+
+Official Python tutorial for handling exceptions:
+https://docs.python.org/3.9/tutorial/errors.html#handling-exceptions
+
+Official Python library reference for the ZeroDivisionError exceptions:
+https://docs.python.org/3.9/library/exceptions.html#ZeroDivisionError
+
+Official Python tutorial for raising exceptions:
+https://docs.python.org/3.9/tutorial/errors.html#raising-exceptions
+
+Official Python library reference for the raise statement:
+https://docs.python.org/3.9/reference/simple_stmts.html#the-raise-statement
+
+scikit-learn repository code sample with an example of the raise keyword:
+https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/manifold/_t_sne.py#L657
+
+Official Python tutorial on handling exceptions:
+https://docs.python.org/3.9/tutorial/errors.html#handling-exceptions

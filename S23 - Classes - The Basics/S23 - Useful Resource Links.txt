@@ -1,0 +1,11 @@
+Official Pyhton tutorial for classes:
+https://docs.python.org/3.9/tutorial/classes.html
+
+Official Pyhton glossary reference for class:
+https://docs.python.org/3.9/glossary.html#term-class
+
+Official Python tutorial on class definition syntax:
+https://docs.python.org/3.9/tutorial/classes.html#class-definition-syntax
+
+Official Pyhton tutorial for pass statements:
+https://docs.python.org/3.9/tutorial/controlflow.html#pass-statements

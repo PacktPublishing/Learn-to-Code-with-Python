@@ -1,0 +1,11 @@
+Official Python glossary reference for garbage collection:
+https://docs.python.org/3.9/glossary.html#term-garbage-collection
+
+Official Python tutorial on conditional checks that includes content on the is and is not keywords:
+https://docs.python.org/3.9/tutorial/datastructures.html#more-on-conditions
+
+Official Python documentation for the copy module:
+https://docs.python.org/3.9/library/copy.html
+
+Official Python tutorial for the id function:
+https://docs.python.org/3.9/library/functions.html#id

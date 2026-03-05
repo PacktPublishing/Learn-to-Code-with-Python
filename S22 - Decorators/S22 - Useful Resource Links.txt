@@ -1,0 +1,23 @@
+Stack Overflow question on creating constants in Python:
+https://stackoverflow.com/questions/2682745/how-do-i-create-a-constant-in-python
+
+Example of constants being used in the Requests library for HTTP requests:
+https://github.com/psf/requests/blob/main/requests/adapters.py#L49
+
+Official Python tutorial on scopes and namespaces:
+https://docs.python.org/3.9/tutorial/classes.html#scopes-and-namespaces-example
+
+Django example of the nonlocal keyword:
+https://github.com/django/django/blob/main/django/db/backends/base/schema.py#L947
+
+Official Python glossary definition for decorators:
+https://docs.python.org/3.9/glossary.html#term-decorator
+
+Stak Overflow question on function decorators:
+https://stackoverflow.com/questions/739654/how-do-i-make-function-decorators-and-chain-them-together/1594484#1594484
+
+Real Python resource on decorators:
+https://realpython.com/primer-on-python-decorators/
+
+GitHub source code for the functools module and wrap decorator function:
+https://github.com/python/cpython/blob/main/Lib/functools.py#L63

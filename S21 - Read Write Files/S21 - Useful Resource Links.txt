@@ -1,0 +1,11 @@
+Official Python tutorial on reading and writing files:
+https://docs.python.org/3.9/tutorial/inputoutput.html#reading-and-writing-files
+
+Official Python tutorial on methods of file objects:
+https://docs.python.org/3.9/tutorial/inputoutput.html#methods-of-file-objects
+
+Official Python documentation for the FileNotFoundError:
+https://docs.python.org/3.9/library/exceptions.html#FileNotFoundError
+
+The cupcake Lorem Ipsum generator:
+https://cupcakeipsum.com/

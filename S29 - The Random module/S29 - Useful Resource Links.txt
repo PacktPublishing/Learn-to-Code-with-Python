@@ -1,0 +1,20 @@
+Official Python library reference for the random module:
+https://docs.python.org/3.9/library/random.html
+
+Official Python library reference for the random function from the random module:
+https://docs.python.org/3.9/library/random.html#random.random
+
+Official Python library reference for randint function from the random module:
+https://docs.python.org/3.9/library/random.html#random.randint
+
+Official Python library reference for the randrange function from the random module:
+https://docs.python.org/3.9/library/random.html#random.randrange
+
+Official Python library reference for the choice function from the random module:
+https://docs.python.org/3.9/library/random.html#random.choice
+
+Official Python library reference for the sample function from the random module:
+https://docs.python.org/3.9/library/random.html#random.sample
+
+Official Python library reference for the shuffle function from the random module:
+https://docs.python.org/3.9/library/random.html#random.shuffle

@@ -1,0 +1,53 @@
+Official Python reference for the __eq__ dunder method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__eq__
+
+Official Python reference for the __str__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__str__
+
+Official Python reference for the __repr__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__repr__
+
+Official Python reference for the __eq__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__eq__
+
+Official Python reference for the __lt__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__lt__
+
+Official Python reference for the __le__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__le__
+
+Official Python reference for the __gt__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__gt__
+
+Official Python reference for the __ge__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__ge__
+
+Official Python reference for the __add__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__add__
+
+Official Python reference for the __sub__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__sub__
+
+Official Python tutorial on documentation strings:
+https://docs.python.org/3.9/tutorial/controlflow.html#documentation-strings
+
+Official Python reference for the __bool__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__bool__
+
+Official Python reference for the namedtuple class in the collections module:
+https://docs.python.org/3.9/library/collections.html#collections.namedtuple
+
+Stack Overflow responses on the question "What are "named tuples" in Python?":
+https://stackoverflow.com/questions/2970608/what-are-named-tuples-in-python
+
+RealPython article on using the namedtuple object:
+https://realpython.com/python-namedtuple/
+
+Official Python reference for the __len__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__len__
+
+Stack Overflow answer to the question 'understanding the getitem method':
+https://stackoverflow.com/questions/43627405/understanding-getitem-method-in-python
+
+Official Python reference for the __del__ method:
+https://docs.python.org/3.9/reference/datamodel.html#object.__del__

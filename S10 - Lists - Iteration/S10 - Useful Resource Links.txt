@@ -1,0 +1,35 @@
+Official Python tutorial on the for statement for iteration:
+https://docs.python.org/3.8/tutorial/controlflow.html#for-statements
+
+Official Python glossary definition for iterable:
+https://docs.python.org/3.8/glossary.html#term-iterable
+
+Official Python tutorial on looping techniques:
+https://docs.python.org/3.9/tutorial/datastructures.html#looping-techniques
+
+Official Python proposal from 2003 that added the reversed function to the language:
+https://peps.python.org/pep-0322/
+
+Official Python library reference for the enumerate function:
+https://docs.python.org/3.9/library/functions.html#enumerate
+
+Stack Overflow question on enumerate function:
+https://stackoverflow.com/questions/22171558/what-does-enumerate-mean
+
+Stack Overflow question on accessing the index value in a for loop:
+https://stackoverflow.com/questions/522563/how-can-i-access-the-index-value-in-a-for-loop
+
+Official Python tutorial for the range function:
+https://docs.python.org/3.9/tutorial/controlflow.html#the-range-function
+
+Official Python library reference for the range function:
+https://docs.python.org/3.9/library/stdtypes.html#range
+
+Official Python tutorial for the break and continue statement:
+https://docs.python.org/3.9/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+
+Official Python tutorial on argument passing:
+https://docs.python.org/3.9/tutorial/interpreter.html#argument-passing
+
+Stack Overflow question on what argv does:
+https://stackoverflow.com/questions/13263951/what-is-argv-and-what-does-it-do

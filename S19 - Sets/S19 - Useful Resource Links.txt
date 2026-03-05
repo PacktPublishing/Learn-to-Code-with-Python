@@ -1,0 +1,38 @@
+Official Python tutorial for sets:
+https://docs.python.org/3.9/tutorial/datastructures.html#sets
+
+Official Python documentation for the set class in the standard library:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#set
+
+Official Python library reference for the add method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?#frozenset.add
+
+Official Python library reference for the update method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?#frozenset.update
+
+Official Python library reference for the remove method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?#frozenset.remove
+
+Official Python library reference for the discard method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?#frozenset.discard
+
+Official Python library reference for the intersection method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?#frozenset.intersection
+
+Official Python library reference for the union method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#frozenset.union
+
+Official Python library reference for the difference method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#frozenset.difference
+
+Official Python library reference for the symmetric_difference method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#frozenset.symmetric_difference
+
+Official Python library reference for the issubset method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#frozenset.issubset
+
+Official Python library reference for the issuperset method on a set:
+https://docs.python.org/3.9/library/stdtypes.html?highlight=set#frozenset.issuperset
+
+Official Python library article on the set and frozenset objects:
+https://docs.python.org/3.9/library/stdtypes.html#set-types-set-frozenset

@@ -1,0 +1,26 @@
+Wikipedia entry for an Anti-pattern:
+https://en.wikipedia.org/wiki/Anti-pattern
+
+Stack Overflow question on how to iterate over a dictionary using for loop:
+https://stackoverflow.com/questions/3294889/iterating-over-a-dictionary-using-a-for-loop-getting-keys
+
+Official Python library reference for the items method:
+https://docs.python.org/3.9/library/stdtypes.html#dict.items
+
+Official Python tutorial on looping techniques with a dictionary:
+https://docs.python.org/3.9/tutorial/datastructures.html#dictionaries
+
+QuantifiedCode article on the best practice of using items to iterate across dictionary:
+https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_items_to_iterate_over_a_dictionary.html
+
+Official Python library reference for the keys method:
+https://docs.python.org/3.9/library/stdtypes.html#dict.keys
+
+Official Python library reference for the values method:
+https://docs.python.org/3.9/library/stdtypes.html#dict.values
+
+Official Python library reference for the sorted method:
+https://docs.python.org/3.9/library/functions.html#sorted
+
+Stack Overflow question on iterating over a list of dictionaries:
+https://stackoverflow.com/questions/17117912/how-to-access-the-values-in-a-list-of-dictionaries

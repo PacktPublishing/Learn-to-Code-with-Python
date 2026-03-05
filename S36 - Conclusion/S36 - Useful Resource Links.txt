@@ -1,0 +1,17 @@
+Official website for the Django web development framework:
+https://www.djangoproject.com/
+
+Official website for the pandas data analysis library:
+https://pandas.pydata.org/
+
+Official library for the scikit-learn machine learning library:
+https://scikit-learn.org/stable/
+
+Official website for the Scrapy web scraping framework:
+https://www.scrapy.org/
+
+CoderBytes's challenges page. This is a great way to practice in-person whiteboarding interviews:
+https://coderbyte.com/challenges
+
+Project Euler's list of coding math/algorithmic problems. Another common way to prep for interviews:
+https://projecteuler.net/archives

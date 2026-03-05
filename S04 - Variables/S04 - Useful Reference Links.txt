@@ -1,0 +1,26 @@
+Official Python tutorial for numbers:
+https://docs.python.org/3.8/tutorial/introduction.html#numbers
+
+Stack Overflow question on what the augmentation assignment operator (+=) means:
+https://stackoverflow.com/questions/823561/what-does-mean-in-python/823878
+
+Official Python library reference for the input function:
+https://docs.python.org/3.8/library/functions.html#input
+
+RealPython tutorial on inner functions:
+https://realpython.com/inner-functions-what-are-they-good-for/
+
+Official Python library reference for the NameError exception:
+https://docs.python.org/3.8/library/exceptions.html#NameError
+
+Official Python library reference for the ValueError exception:
+https://docs.python.org/3.8/library/exceptions.html#ValueError
+
+Official Python library reference for the TypeError exception:
+https://docs.python.org/3.8/library/exceptions.html#TypeError
+
+Official Python library reference for the SyntaxError exception:
+https://docs.python.org/3.8/library/exceptions.html#SyntaxError
+
+Official Python tutorial on exceptions:
+https://docs.python.org/3.8/tutorial/errors.html#exceptions

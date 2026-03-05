@@ -1,0 +1,17 @@
+Official Python tutorial on list methods including all of the methods of list objects:
+https://docs.python.org/3.9/tutorial/datastructures.html#more-on-lists
+
+Official Python library definition for the split on a string:
+https://docs.python.org/3.9/library/stdtypes.html#str.split
+
+Official Python library definition for the join on a string:
+https://docs.python.org/3.9/library/stdtypes.html#str.join
+
+Official Python library reference for the zip function:
+https://docs.python.org/3.9/library/functions.html#zip
+
+Official Python tutorial on list comprehensions:
+https://docs.python.org/3.9/tutorial/datastructures.html#list-comprehensions
+
+Official Python glossary definition for list comprehension:
+https://docs.python.org/3.9/glossary.html#term-list-comprehension

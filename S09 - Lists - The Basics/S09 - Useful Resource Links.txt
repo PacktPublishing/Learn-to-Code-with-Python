@@ -1,0 +1,20 @@
+Official Python tutorial for lists:
+https://docs.python.org/3.8/tutorial/introduction.html#lists
+
+Official Python glossary definition for list:
+https://docs.python.org/3.8/glossary.html#term-list
+
+Official Python documentation for the len function:
+https://docs.python.org/3.8/library/functions.html#len
+
+Official Python documentation / article on membership test operations:
+https://docs.python.org/3.8/reference/expressions.html#membership-test-operations
+
+Official Python tutorial on lists, including a section on indexing:
+https://docs.python.org/3.8/tutorial/introduction.html?highlight=list#lists
+
+Official Python tutorial on slicing lists using bracket notation:
+https://docs.python.org/3.8/tutorial/introduction.html#lists
+
+Stack Overflow article on slice notation in Python:
+https://stackoverflow.com/questions/509211/how-slicing-in-python-works/20136130#20136130

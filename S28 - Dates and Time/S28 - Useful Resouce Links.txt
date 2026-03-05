@@ -1,0 +1,17 @@
+Official Python standard library reference for the datetime module:
+https://docs.python.org/3.9/library/datetime.html#module-datetime
+
+Official Python library documentation for the date objects:
+https://docs.python.org/3.9/library/datetime.html#date-objects
+
+Official Python library reference for the time class:
+https://docs.python.org/3.9/library/datetime.html#time-objects
+
+Official Python library reference for the replace method on a datetime object:
+https://docs.python.org/3.9/library/datetime.html#datetime.datetime.replace
+
+Website with a list of available formatting codes for strftime method:
+https://strftime.org/
+
+Official Python library documentation for the timedelta objects:
+https://docs.python.org/3.9/library/datetime.html#timedelta-objects

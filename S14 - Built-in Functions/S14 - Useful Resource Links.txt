@@ -1,0 +1,41 @@
+Official Python tutorial for the help function:
+https://docs.python.org/3.9/library/functions.html#help
+
+Official Python documentation for the map function:
+https://docs.python.org/3.9/library/functions.html#map
+
+Official Python documentation on the filter function:
+https://docs.python.org/3.9/library/functions.html#filter
+
+Stack Overflow question on why filter returns an iterable object instead of a list:
+https://stackoverflow.com/questions/33174276/why-does-foo-filter-return-a-filter-object-not-a-list
+
+Official Python tutorial for lambda expressions:
+https://docs.python.org/3.9/tutorial/controlflow.html#lambda-expressions
+
+Official Python documentation for the all function:
+https://docs.python.org/3.9/library/functions.html#all
+
+Official Python documentation for the any function:
+https://docs.python.org/3.9/library/functions.html#any
+
+Official Python documentation for the max function:
+https://docs.python.org/3.9/library/functions.html#max
+
+Official Python documentation for the min function:
+https://docs.python.org/3.9/library/functions.html#min
+
+Official Python documentation for the sum function:
+https://docs.python.org/3.9/library/functions.html#sum
+
+Official Python tutorial for dir function:
+https://docs.python.org/3.9/tutorial/modules.html#the-dir-function
+
+Official Python library reference for the dir function:
+https://docs.python.org/3.9/library/functions.html#dir
+
+Official Python library reference for the format method:
+https://docs.python.org/3.9/library/functions.html?t#format
+
+Official Python library reference for the format specification mini-language:
+https://docs.python.org/3.9/library/string.html#formatspec

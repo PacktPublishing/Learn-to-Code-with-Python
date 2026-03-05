@@ -1,0 +1,36 @@
+Official Python library reference for Boolean values:
+https://docs.python.org/3.8/library/stdtypes.html#boolean-values
+
+Official Python library reference for value comparisons:
+https://docs.python.org/3.8/reference/expressions.html#value-comparisons
+
+Official Python reference for the if statement:
+https://docs.python.org/3.8/reference/compound_stmts.html#the-if-statement
+
+Official Python tutorial on if statement:
+https://docs.python.org/3.8/tutorial/controlflow.html#if-statements
+
+https://docs.python.org/3.8/tutorial/controlflow.html
+
+TutorialsPoint tutorial on basic operators in Python:
+https://www.tutorialspoint.com/python/python_operators.htm
+
+Official Python library reference for the bool class/function:
+https://docs.python.org/3.8/library/functions.html#bool
+
+Stack Overflow question on whether Python has a ternary conditional operator:
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator
+
+Python mail from Guido van Rossum describing the conditional operation:
+https://mail.python.org/pipermail/python-dev/2005-September/056846.html
+
+Official Python tutorial on advanced conditions:
+https://docs.python.org/3.8/tutorial/datastructures.html#more-on-conditions
+
+Official Python reference for the while statement:
+https://docs.python.org/3.8/reference/compound_stmts.html#the-while-statement
+
+Official Python tutorial on first steps towards programming:
+https://docs.python.org/3.8/tutorial/introduction.html#first-steps-towards-programming
+
+
